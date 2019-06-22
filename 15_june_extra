@@ -1,0 +1,36 @@
+AWS => Cloud Service Provider
+Cloud => Virtual env
+Cloud Computing
+=> Flexibity
+=> Remote access
+=> Scalability => diff tangent
+=> Efficency
+=> Elasticity => load manage
+=> Avaialbilty
+=> Security
+=> Cost
+
+--------Server Guy
+=> Room
+=> Hardware
+=> maintence
+=> Elecritcty
+
+
+Pay what you use
+
+
+/*************************
+        Cloud category
+*************************/
+Public==> Same cloud share among multiple user
+Privte=> VPC private to the owner
+Hybrid=> Public + private 
+MultiCloud=> AWS + GCP + AZURE
+
+/**************************
+    Model
+*********************/
+IAAS   => Infra a Service
+PAAS   => Platform as service
+SAAS  => Software as servie

@@ -1,0 +1,19 @@
+www.stcokinfo.com?apikey='drgdf43tdfgergfhrtht'
+
+Adding resource to one machine is verticle scalling
+> Scale up & scale down
+Adding new machines is horizontal scalling
+> Sacle In and scale out
+
+
+> Log user login
+> Clear cache
+> Update databse
+> Read File
+
+
+EBS=> Elastic bean stalk => For running application directly by upload
+ECS=> Container service that manage container Ec2 instance
+EKS=>  For docker kubernatives
+ELB=> Load balance to mange load on server
+EC2=> cloud compute more like real VM

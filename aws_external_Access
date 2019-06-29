@@ -30,7 +30,7 @@ Add json to policy
     "Statement": {
         "Effect": "Allow",
         "Action": "sts:AssumeRole",
-        "Resource": "arn:aws:iam::183146231680:role/s3accesexternal"
+        "Resource": "arn:"
     }
 }
 Step5>

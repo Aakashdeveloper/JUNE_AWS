@@ -80,10 +80,9 @@ Dedicate Host        => Dedicated physical Machine for my VM
 *************************/
 => Install IIS
 => Install-WindowsFeature -name Web-Server -IncludeManagementTools
-=> C:\inetpub/www/root/index.html
+=> C:/inetpub/wwwroot/index.html
 => <h1>Hi welcome</h1>
-=> Install-WindowsFeature -name Web-Server -IncludeManagementTools
-
+=> publicip/ index.html
 
 /************************
    Golden Image(Custome Image)  AMI
